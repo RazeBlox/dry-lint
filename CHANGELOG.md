@@ -1,5 +1,18 @@
 # Changelog
 
+## [1.11.0](https://github.com/gigaverse-app/dry-lint/compare/v1.10.0...v1.11.0) (2026-11-11)
+
+
+### Features
+
+* **judges:** balanced judges in a schema, thinking first, with the rules cached ([4fd79af](https://github.com/gigaverse-app/dry-lint/commit/4fd79af00b5d40994787f51693d7961779b2ecc1))
+
+
+### Documentation
+
+* **research:** family judging finds more and is not yet precise enough ([#188](https://github.com/gigaverse-app/dry-lint/issues/188)) ([9e98c9c](https://github.com/gigaverse-app/dry-lint/commit/9e98c9c7ec6b5f090fb6074ddff71cdc33428cfb))
+* **research:** grouped pair questions are cheaper and less precise ([#189](https://github.com/gigaverse-app/dry-lint/issues/189)) ([4250c02](https://github.com/gigaverse-app/dry-lint/commit/4250c0218172e066ec57fb200eb932126b556db9))
+
 ## [1.10.0](https://github.com/gigaverse-app/dry-lint/compare/v1.9.3...v1.10.0) (2026-11-11)
 
 
